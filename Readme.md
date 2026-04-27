@@ -31,7 +31,7 @@ LLM 위에서 동작하는 기준 기반 구조 분석 프레임워크
 
 ## 문서
 
-📄 https://drive.google.com/file/d/1-sRTj3vXDX3z2Fmir_KRk55iMuoofHw8/view
+1. JDF_CSVCFrameworkV1.0.pdf  다운로드하세요.
 
 ---
 
