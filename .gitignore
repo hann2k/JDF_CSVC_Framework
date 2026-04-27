@@ -1,8 +1,15 @@
-.vs/
-*.csproj
-*.sln
-*.user
-.*
-.vs/
-bin/
-obj/
+# 모든 파일과 폴더를 기본적으로 무시
+*
+*/
+
+# PDF와 Markdown 파일만 허용
+!*.pdf
+!*.md
+
+# .gitignore 자체도 허용
+!.gitignore
+
+# README 파일들 허용 (대소문자 구분)
+!README.md
+!Readme.md
+!readme.md
