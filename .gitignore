@@ -1,8 +1,6 @@
 .vs/
+*.csproj
+*.sln
+.vs/
 bin/
 obj/
-*.user
-*.suo
-*.log
-.gitignore
-.gitattributes
