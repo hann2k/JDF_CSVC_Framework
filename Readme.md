@@ -33,6 +33,7 @@ LLM 위에서 동작하는 기준 기반 구조 분석 프레임워크
 ## 문서, 자연어 프레임워크
 
 📄 [JDF_CSVCFrameworkV1.0.pdf](./JDF_CSVCFrameworkV1.0.pdf)
+📄 [JDF_1.13.pdf](./JDF_1.13.pdf)
 
 ---
 
