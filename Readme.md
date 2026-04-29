@@ -4,6 +4,14 @@ LLM 위에서 동작하는 기준 기반 구조 분석 프레임워크
 
 ---
 
+## Download  
+가장 최근의 프레임워크 문서가 위로 올라옵니다.
+
+📄 2020-04-29 [JDF_1.13.pdf](./JDF_1.13.pdf)  
+📄 2020-04-23 [JDF_CSVCFrameworkV1.0.pdf](./JDF_CSVCFrameworkV1.0.pdf)  
+
+---
+
 ## 개요
 
 입력된 질문을 기준 단위로 분해하고,  기준 간 충돌 및 책임 구조를 분석하여 결과를 출력합니다.
@@ -89,14 +97,6 @@ LLM 위에서 동작하는 기준 기반 구조 분석 프레임워크
 
 http://googleusercontent.com/youtube_content/7
 ```
-
----
-
-## 문서, 자연어 프레임워크  
-가장 최근의 프레임워크 문서가 위로 올라옵니다.
-
-📄 2020-04-29 [JDF_1.13.pdf](./JDF_1.13.pdf)  
-📄 2020-04-23 [JDF_CSVCFrameworkV1.0.pdf](./JDF_CSVCFrameworkV1.0.pdf)  
 
 ---
 
