@@ -95,8 +95,8 @@ http://googleusercontent.com/youtube_content/7
 ## 문서, 자연어 프레임워크  
 가장 최근의 프레임워크 문서가 위로 올라옵니다.
 
-📄 [JDF_1.13.pdf](./JDF_1.13.pdf)  
-📄 [JDF_CSVCFrameworkV1.0.pdf](./JDF_CSVCFrameworkV1.0.pdf)  
+📄 2020-04-29 [JDF_1.13.pdf](./JDF_1.13.pdf)  
+📄 2020-04-23 [JDF_CSVCFrameworkV1.0.pdf](./JDF_CSVCFrameworkV1.0.pdf)  
 
 ---
 
